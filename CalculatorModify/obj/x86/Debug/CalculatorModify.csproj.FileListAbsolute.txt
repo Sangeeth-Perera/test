@@ -1,0 +1,4 @@
+c:\users\sgpelk\documents\visual studio 2010\Projects\CalculatorModify\CalculatorModify\bin\Debug\CalculatorModify.exe
+c:\users\sgpelk\documents\visual studio 2010\Projects\CalculatorModify\CalculatorModify\bin\Debug\CalculatorModify.pdb
+c:\users\sgpelk\documents\visual studio 2010\Projects\CalculatorModify\CalculatorModify\obj\x86\Debug\CalculatorModify.exe
+c:\users\sgpelk\documents\visual studio 2010\Projects\CalculatorModify\CalculatorModify\obj\x86\Debug\CalculatorModify.pdb
